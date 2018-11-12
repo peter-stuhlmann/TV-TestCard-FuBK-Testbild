@@ -112,10 +112,18 @@ body {
 }
 
 .col-2-c {
-    width: 96px;
+    width: 48px;
     height: 40px;
     background-color: #778899;
     float: left;
+    border-right: 1px solid #fff
+}
+.col-2-ca {
+    width: 48px;
+    height: 40px;
+    background-color: #778899;
+    float: left;
+    border-left: 1px solid #fff
 }
 
 .col-2-d {
@@ -131,5 +139,35 @@ body {
     background-color: #fff;
     float: left;
 }
+
+/* GRID: SQUARE 3rd row */
+
+.col-3-a {
+    width: 96px;
+    height: 40px;
+    background-color: #fff;
+    float: left;
+    border-top: 1px solid #fff
+}
+
+.col-3-b {
+    width: 144px;
+    height: 40px;
+    background-color: #000;
+    float: left;
+    border-top: 2px solid #fff;
+    border-right: 1px solid #fff
+}
+
+.col-3-c {
+    width: 144px;
+    height: 40px;
+    background-color: #000;
+    float: left;
+    border-top: 2px solid #fff;
+    border-left: 1px solid #fff
+}
+
+
 
 
