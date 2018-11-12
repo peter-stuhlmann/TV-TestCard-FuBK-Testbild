@@ -234,6 +234,7 @@ body {
 
 
 
+
 /* GRID: SQUARE 5th row */
 
 .col-5-a {
@@ -276,3 +277,17 @@ body {
     background: linear-gradient(90deg, #658CFF, #000);
     float: left
 }
+
+
+.circle {
+    border-radius: 50%;
+    width: 536px;
+    height: 536px;
+    border: 2px solid #fff;
+    position: absolute;
+    left: 212px;
+    top: 12px
+    
+}
+
+
