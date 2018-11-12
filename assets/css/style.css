@@ -37,10 +37,60 @@ body {
     float: left
 }
 
+/* GRID: SQUARE 1st row */
+
 .col-a {
     width: 60px;
     height: 40px;
-    border: 1px solid #fff;
     background-color: #E0FFE3;
+    float: left;
+}
+
+.col-b {
+    width: 60px;
+    height: 40px;
+    background-color: yellow;
+    float: left;
+}
+
+.col-c {
+    width: 60px;
+    height: 40px;
+    background-color: #4CFBFF;
+    float: left;
+}
+
+.col-d {
+    width: 60px;
+    height: 40px;
+    background-color: #00CC0C;
+    float: left;
+}
+
+.col-e {
+    width: 60px;
+    height: 40px;
+    background-color: #C000FF;
+    float: left;
+}
+
+.col-f {
+    width: 60px;
+    height: 40px;
+    background-color: #7F0300;
+    float: left;
+}
+
+.col-g {
+    width: 60px;
+    height: 40px;
+    background-color: #000CFF;
+    float: left;
+}
+
+.col-h {
+    width: 60px;
+    height: 40px;
+    background-color: #000;
     float: left;
 }
