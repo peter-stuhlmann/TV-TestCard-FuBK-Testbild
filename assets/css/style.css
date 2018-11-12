@@ -118,6 +118,7 @@ body {
     float: left;
     border-right: 1px solid #fff
 }
+
 .col-2-ca {
     width: 48px;
     height: 40px;
@@ -178,7 +179,7 @@ body {
 
 
 
-/* GRID: SQUARE 5rd row */
+/* GRID: SQUARE 5th row */
 
 .col-5-a {
     width: 480px;
@@ -188,6 +189,25 @@ body {
 }
 
 
+/* GRID: SQUARE 6th & 7th row */
 
+.col-6-a {
+    width: 320px;
+    height: 40px;
+    background: linear-gradient(90deg, #FF008C, #000);
+    float: left
+}
 
+.col-6-b {
+    width: 160px;
+    height: 40px;
+    background-color: #778899;
+    float: left
+}
 
+.col-7-a {
+    width: 320px;
+    height: 40px;
+    background: linear-gradient(90deg, #658CFF, #000);
+    float: left
+}
