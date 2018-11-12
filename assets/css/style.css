@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: green
+    background-color: #000
 }
 
 #wrap {
@@ -19,7 +19,7 @@ body {
 
 .grid-container {
     width: 100%;
-    text-align: center
+    text-align: center;
 }
 
 .row:before,
