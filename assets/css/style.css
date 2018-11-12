@@ -64,33 +64,72 @@ body {
     width: 60px;
     height: 40px;
     background-color: #00CC0C;
-    float: left;
+    float: left
 }
 
 .col-e {
     width: 60px;
     height: 40px;
     background-color: #C000FF;
-    float: left;
+    float: left
 }
 
 .col-f {
     width: 60px;
     height: 40px;
     background-color: #7F0300;
-    float: left;
+    float: left
 }
 
 .col-g {
     width: 60px;
     height: 40px;
     background-color: #000CFF;
-    float: left;
+    float: left
 }
 
 .col-h {
     width: 60px;
     height: 40px;
     background-color: #000;
+    float: left
+}
+
+/* GRID: SQUARE 2nd row */
+
+.col-2-a {
+    width: 96px;
+    height: 40px;
+    background-color: #000;
     float: left;
 }
+
+.col-2-b {
+    width: 96px;
+    height: 40px;
+    background-color: #2F4F4F;
+    float: left;
+}
+
+.col-2-c {
+    width: 96px;
+    height: 40px;
+    background-color: #778899;
+    float: left;
+}
+
+.col-2-d {
+    width: 96px;
+    height: 40px;
+    background-color: #D3D3D3;
+    float: left;
+}
+
+.col-2-e {
+    width: 96px;
+    height: 40px;
+    background-color: #fff;
+    float: left;
+}
+
+
