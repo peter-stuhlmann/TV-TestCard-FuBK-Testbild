@@ -10,7 +10,7 @@ body {
 }
 
 #wrap {
-    width: 800px;
+    width: 810px;
     margin: 0 auto
 }
 
@@ -28,6 +28,92 @@ body {
     display: table;
     clear: both
 }
+
+/* GRID: half rows and columns */
+
+.col-1-left {
+    width: 10px;
+    height: 40px;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    background-color: darkslategray;
+    float: left
+}
+
+.col-1-right {
+    width: 10px;
+    height: 40px;
+    border-left: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    background-color: darkslategray;
+    float: left
+}
+
+.col-1-top {
+    width: 40px;
+    height: 10px;
+    border-right: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    background-color: darkslategray;
+    float: left
+}
+
+.col-1-bottom {
+    width: 40px;
+    height: 10px;
+    border-right: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-top: 1px solid #fff;
+    background-color: darkslategray;
+    float: left
+}
+
+.col-1-tl-corner {
+    width: 10px;
+    height: 10px;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    background-color: darkslategray;
+    float: left
+}
+
+.col-1-tr-corner {
+    width: 10px;
+    height: 10px;
+    border-left: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    background-color: darkslategray;
+    float: left
+}
+
+.col-1-bl-corner {
+    width: 10px;
+    height: 10px;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    background-color: darkslategray;
+    float: left
+}
+
+.col-1-br-corner {
+    width: 10px;
+    height: 10px;
+    border-left: 1px solid #fff;
+    border-top: 1px solid #fff;
+    background-color: darkslategray;
+    float: left
+}
+
+
+
+
+
+
+
+/* Background squares */
 
 .col-1 {
     width: 40px;
@@ -278,6 +364,8 @@ body {
     float: left
 }
 
+
+/* CIRCLE */
 
 .circle {
     border-radius: 50%;
