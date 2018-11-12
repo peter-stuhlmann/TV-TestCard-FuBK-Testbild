@@ -170,7 +170,62 @@ body {
 }
 
 
+/* GRID: SQUARE 4th row */
 
+.col-4-a {
+    width: 55px;
+    height: 40px;
+    background-color: #fff;
+    float: left
+}
+
+.col-4-b {
+    width: 10px;
+    height: 40px;
+    background-color: #778899;
+    float: left
+}
+
+/* gray boxes in the center */
+
+.col-4-c {
+    width: 10px;
+    height: 40px;
+    background-color: #778899;
+    float: left;
+    border-right: 1px solid #fff
+}
+
+.col-4-d {
+    width: 10px;
+    height: 40px;
+    background-color: #778899;
+    float: left;
+    border-left: 1px solid #fff
+}
+
+.col-4-e {
+    width: 15px;
+    height: 40px;
+    background-color: #778899;
+    float: left;
+}
+
+/* Placeholder (stripes) */
+
+.col-4-placeholder {
+    width: 77.5px;
+    height: 40px;
+    background-color: #fff;
+    float: left
+}
+
+.col-4-orange {
+    width: 128px;
+    height: 40px;
+    background-color: orange;
+    float: left
+}
 
 
 
