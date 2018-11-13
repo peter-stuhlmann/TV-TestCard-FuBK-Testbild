@@ -121,7 +121,7 @@ body {
     width: 40px;
     height: 40px;
     border: 1px solid #fff;
-    background-color: darkslategray;
+    background-color: #393939;
     float: left
 }
 
@@ -130,49 +130,49 @@ body {
 .col-a {
     width: 60px;
     height: 40px;
-    background-color: #E0FFE3;
+    background-color: #CDCDCD;
     float: left;
 }
 
 .col-b {
     width: 60px;
     height: 40px;
-    background-color: yellow;
+    background-color: #CBCD00;
     float: left;
 }
 
 .col-c {
     width: 60px;
     height: 40px;
-    background-color: #4CFBFF;
+    background-color: #00CECE;
     float: left;
 }
 
 .col-d {
     width: 60px;
     height: 40px;
-    background-color: #00CC0C;
+    background-color: #00CD00;
     float: left
 }
 
 .col-e {
     width: 60px;
     height: 40px;
-    background-color: #C000FF;
+    background-color: #CF00CD;
     float: left
 }
 
 .col-f {
     width: 60px;
     height: 40px;
-    background-color: #7F0300;
+    background-color: #C00;
     float: left
 }
 
 .col-g {
     width: 60px;
     height: 40px;
-    background-color: #000CFF;
+    background-color: #00C;
     float: left
 }
 
@@ -195,7 +195,7 @@ body {
 .col-2-b {
     width: 96px;
     height: 40px;
-    background-color: #2F4F4F;
+    background-color: #2D2D2D;
     float: left;
 }
 
@@ -354,7 +354,7 @@ body {
 .col-4-orange {
     width: 130px;
     height: 40px;
-    background-color: orange;
+    background-color: #CC6B00;
     float: left
 }
 
@@ -392,7 +392,7 @@ body {
 .col-6-b {
     width: 160px;
     height: 40px;
-    background-color: #778899;
+    background-color: #2D2D2D;
     float: left
 }
 
