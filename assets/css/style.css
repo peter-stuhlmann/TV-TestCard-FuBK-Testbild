@@ -10,8 +10,10 @@ body {
 }
 
 #wrap {
-    width: 810px;
-    margin: 0 auto
+    width: 740px;
+    height: 580px;
+    margin: 10px auto;
+    overflow: hidden
 }
 
 
@@ -259,7 +261,7 @@ body {
 /* GRID: SQUARE 4th row */
 
 .col-4-a {
-    width: 55px;
+    width: 60px;
     height: 40px;
     background-color: #fff;
     float: left
@@ -306,18 +308,55 @@ body {
     float: left
 }
 
+.col-4-extrathick-fff {
+    width: 11px;
+    height: 40px;
+    background-color: #fff;
+    float: left;
+    background-image: linear-gradient(90deg, #000, #fff, #fff, #000);
+}
+
+.col-4-extrathick-000 {
+    width: 4px;
+    height: 40px;
+    background-color: #000;
+    float: left;
+}
+
+.col-4-thick-fff {
+    width: 3.75px;
+    height: 40px;
+    background-color: #fff;
+    float: left
+}
+
+.col-4-thick-000 {
+    width: 3.75px;
+    height: 40px;
+    background-color: #000;
+    float: left
+}
+
+.col-4-thin-fff {
+    width: 2.5px;
+    height: 40px;
+    background-color: #fff;
+    float: left
+}
+
+.col-4-thin-000 {
+    width: 2.5px;
+    height: 40px;
+    background-color: #000;
+    float: left
+}
+
 .col-4-orange {
-    width: 128px;
+    width: 130px;
     height: 40px;
     background-color: orange;
     float: left
 }
-
-
-
-
-
-
 
 
 
@@ -372,10 +411,8 @@ body {
     width: 536px;
     height: 536px;
     border: 2px solid #fff;
-    position: absolute;
-    left: 212px;
-    top: 12px
-    
+    position: relative;
+    left: 102px;
+    bottom: 559px;
+
 }
-
-
